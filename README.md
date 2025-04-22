@@ -9,3 +9,4 @@ I recreated Machine/Deep Learning Algorithms such as:
 * Binary Cross Entropy Loss
 * Multiclass Cross Entropy Loss
 * Least Square Loss
+* and More
